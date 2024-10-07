@@ -36,7 +36,7 @@
 
             bindings = <
 &trans      &kp EXCL  &kp AT  &kp HASH  &kp DLLR  &kp PRCNT    &kp CARET  &kp AMPS              &kp ASTERISK  &kp LPAR  &kp RPAR  &kp BSLH
-&caps_word  &kp N1    &kp N2  &kp N3    &kp N4    &kp N5       &kp MINUS  &kp EQUAL             &kp GRAVE     &kp LBKT  &kp RBKT  &kp PIPE
+&caps_word  &kp N1    &kp N2  &kp N3    &kp N4    &kp N5       &kp MINUS  &kp EQUAL             &kp GRAVE     &kp LBKT  &kp RBKT  &mt LSHIFT BSLH
 &kp LSHFT   &kp N6    &kp N7  &kp N8    &kp N9    &kp N0       &kp UNDER  &mt LEFT_SHIFT EQUAL  &kp TILDE     &kp LBRC  &kp RBRC  &kp RSHFT
                               &kp LGUI  &trans    &kp SPACE    &kp ENTER  &trans                &kp ESCAPE
             >;
